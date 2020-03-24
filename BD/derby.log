@@ -29,3 +29,9 @@ os.arch=x86_64
 os.version=10.15.3
 derby.system.home=/Users/sophiecrowley/Documents/GitHub/DASI/BD
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 21 17:39:28 GMT 2020: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Mar 21 17:39:28 GMT 2020:
+Shutting down instance 6ede40af-0170-f94c-61e1-0000682f16b5 on database directory /Users/sophiecrowley/Documents/GitHub/DASI/BD/One with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+----------------------------------------------------------------
