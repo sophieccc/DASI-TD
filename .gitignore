@@ -2,3 +2,5 @@
 /DASI1/target/
 /TD2/target/
 /DASI-TD2/target/
+.DS_Store
+*.DS_Store
